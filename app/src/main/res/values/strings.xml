@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">BottomSheet</string>
+
+    <string name="read_storage">Can we read your storage?</string>
+    <string name="storage_message">We need your permission to access your storage</string>
+    <string name="feedback">Feedback</string>
+    <string name="rateus">Rate Us</string>
+    <string name="went_wrong">Something Went Wrong..</string>
+    <string name="share_video">Share Video</string>
+    <string name="del_img">deleted successfully..</string>
+</resources>
